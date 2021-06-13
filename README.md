@@ -14,10 +14,12 @@ run php artisan storage:link
 
 import database from data.sql file in database/data.sql(as it contains admin credentials. DONOT RUN PHP ARTISAN MIGRATE)
 
-login with the following details: on http://url/admin/login
+login with the following details for admin: on http://url/admin/login
 
-superadmin@admin.com
-password
+User email: superadmin@admin.com
+User Password: password
 
-admin@admin.com(login with this)
-password12345
+User email: admin@admin.com(login with this)
+User Password: password12345
+
+for common user register and login on http://url/login
