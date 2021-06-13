@@ -16,7 +16,7 @@ import database from data.sql file in database/data.sql(as it contains admin cre
 
 login with the following details for admin: on http://url/admin/login
 
-User email: superadmin@admin.com
+User email: superadmin@admin.com(Donot login with this)
 User Password: password
 
 User email: admin@admin.com(login with this)
