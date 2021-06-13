@@ -1,0 +1,8 @@
+superadmin@admin.com
+password
+
+admin@admin.com
+password12345
+
+tinymce
+fontawesome
